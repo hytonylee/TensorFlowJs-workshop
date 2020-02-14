@@ -1,0 +1,16 @@
+{
+	"name": "tensorflowjs-workshop",
+	"version": "1.0.0",
+	"description": "tensorflowJs workshop",
+	"main": "index.js",
+	"dependencies": {
+		"@tensorflow/tfjs": "^1.5.2"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Tony Lee <hy.tony.lee@gmail.com>",
+	"license": "MIT"
+}
